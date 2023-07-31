@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DebarkiKarunKumar
-- 👀 I’m interested in software developer
-- 🌱 I’m currently learning python 
+- 👀 I’m interested in Analytics 
+- 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on any company
 - 📫 How to reach me https://www.linkedin.com/in/debarki-karun-kumar-253836217/
 
